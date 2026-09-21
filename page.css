@@ -78,7 +78,7 @@ input {
     padding: 20px 60px;
     position: relative;
     z-index: 2;
-    color: white;
+    background-color: white;
 }
 
 .logo img {
@@ -95,7 +95,7 @@ input {
 
 .links a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 15px;
     font-weight: 500;
     position: relative;
